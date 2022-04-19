@@ -68,3 +68,8 @@
     cursor:pointer;
     background-color: #282828;
 }
+
+.tweetImg {
+    width: 98%;
+    border-radius: 10px;
+}
